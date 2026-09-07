@@ -1,8 +1,9 @@
 # About Me
 
 - 👤 **Status**: Student & Backend Developer
+- 🎓 **Education**: Systems Analysis and Development (ADS) — Starting 2027
 - 🎯 **Current Focus**: RESTful API Architecture & Authentication (JWT)
-- 💡 **Philosophy**: Learning by doing, writing clean, safe and efficient code
+- 💡 **Philosophy**: Learning by doing, writing clean, safe, and efficient code
 
 > Backend-focused developer dedicated to building secure REST APIs, integrating databases, and implementing robust data authorization.
 
@@ -33,4 +34,5 @@
 
 - 📌 Master advanced RESTful API design
 - 🔒 Deep dive into Web Security, Auth & Data Protection
+- 🎓 Complete Systems Analysis and Development degree
 - 🛠️ Build real-world applications using software engineering best practices
