@@ -1,18 +1,17 @@
-<h1 align="center">Hi, I'm glad you're here 👋</h1>
+# About Me
 
-- 👤 **Status**: Student & Backend Developer in training
-- 🎯 **Current Focus**: REST API architecture and JWT security
-- 💡 **Philosophy**: Learning by doing, building clean and secure code
-- 🌱 **Journey**: Self-taught — started from scratch, building one project at a time until reaching authentication, relational databases, and secure APIs
+- 👤 **Status**: Student & Backend Developer
+- 🎓 **Education**: Systems Analysis and Development (ADS) — Starting 2027
+- 🎯 **Current Focus**: RESTful API Architecture & Authentication (JWT)
+- 💡 **Philosophy**: Learning by doing, writing clean, safe, and efficient code
 
-> Developing backend developer focused on building robust APIs, integrating databases, and ensuring end-to-end data security.
+> Backend-focused developer dedicated to building secure REST APIs, integrating databases, and implementing robust data authorization.
 
 ---
 
-### 🛠️ Tech Stack
+### [02] // TECH_STACK
 
-**Backend & Languages**
-
+#### Backend & Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -20,8 +19,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-**Databases & Tools**
-
+#### Database & Tools
 <p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -32,19 +30,9 @@
 
 ---
 
-### 🔗 Featured Projects
+### 🚀 Goals
 
-- **JWT Authentication System** — Registration, login, protected profile, password change, password recovery with single-purpose tokens and tiered expiration.
-- **Multi-user Task API** — Full CRUD with SQLAlchemy, table relationships (Foreign Key), and per-user authorization.
-- **Various REST APIs** — Calculator, to-do list, and login system, each exploring a different aspect of API design.
-
-*(add repository links here)*
-
----
-
-### 🚀 Main Goals
-
-- 📌 Master complex RESTful architectures
-- 🔒 Deepen knowledge of authentication, authorization, and data security
-- 🛠️ Build real projects while applying development best practices
-- 🎓 Start a degree in Systems Analysis and Development to deepen my formal education
+- 📌 Master advanced RESTful API design
+- 🔒 Deep dive into Web Security, Auth & Data Protection
+- 🎓 Complete Systems Analysis and Development degree
+- 🛠️ Build real-world applications using software engineering best practices
